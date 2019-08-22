@@ -105,7 +105,7 @@
   })
 })(jQuery);
 $(function() {
-  $("img").lazyload({
+  $(".separator img").lazyload({
     placeholder: "http://1.bp.blogspot.com/-Qg5bi1ZtDdM/VZ5nHAyYBqI/AAAAAAAAChE/exGnasO4oyk/s640/arlinadesign.gif",
     effect: "fadeIn",
     threshold: "-50"
